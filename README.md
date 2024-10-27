@@ -1,2 +1,2 @@
 # widget de transporte
-![](/widgetCalculoFrete.png)
+![](/widgetFreteThumb.png)
